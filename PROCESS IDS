@@ -1,0 +1,10 @@
+#! /bin/bash
+##########
+#Author: Vinay
+#Date: 16-09-2024
+#Version : V1
+##
+#Purpose:This is about to print all the process Ids.
+
+echo "to print all the process Ids"
+ps -a
