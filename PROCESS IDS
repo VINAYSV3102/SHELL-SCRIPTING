@@ -7,4 +7,4 @@
 #Purpose:This is about to print all the process Ids.
 
 echo "to print all the process Ids"
-ps -a
+ps -ef
